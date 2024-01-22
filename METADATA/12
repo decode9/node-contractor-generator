@@ -1,7 +1,0 @@
-{
-    "description": "description",
-    "external_url": "external_url",
-    "image": "image",
-    "name": "name",
-    "attributes": [{"trait_type":"Author","value":"decode9"},{"trait_type":"Pass N#","value":12},{"display_type":"date","trait_type":"Published","value":1705941180588}]
-}
